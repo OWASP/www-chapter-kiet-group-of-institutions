@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Raj Pandey](mailto:raj.pandey@owasp.org)
+* [Prashant Rai](mailto:prashant.rai@owasp.org)
+* [Khushboo Pandey](mailto:khushboo.pandey@owasp.org)
