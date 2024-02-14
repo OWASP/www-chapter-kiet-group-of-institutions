@@ -12,7 +12,7 @@ meetup-group:
 ## Welcome
 The OWASP KIET Group of Institutions Chapter, is operated at KIET Group of Institutions, Ghaziabad. The Chapter aims to emerge as a pioneering force in the cybersecurity realm, bringing together the finest minds and resources within the realm of cybersecurity into a singular, dynamic entity.
 
-The amalgamation of Null and OWASP's resources and expertise showcases a comprehensive platform dedicated to cybersecurity education, skill development, and innovation.
+The amalgamation of OWASP's resources and expertise showcases a comprehensive platform dedicated to cybersecurity education, skill development, and innovation.
 
 
 ## Participation
