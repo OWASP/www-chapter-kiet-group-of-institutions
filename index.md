@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP KIET Group of Institutions
-tags: owaspmit
+tags: owaspkiet
 region: Asia
 country: India
 meetup-group:
